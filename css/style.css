@@ -160,7 +160,7 @@ main {
 
 .content {
   display: grid;
-  grid-template-columns: 75% 25%;
+  grid-template-columns: 100% 25%;
 }
 
 /* LEFT CONTENT */
