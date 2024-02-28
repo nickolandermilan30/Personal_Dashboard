@@ -1,0 +1,16 @@
+/* I-update ang CSS code */
+.video-container {
+    position: relative;
+    display: inline-block;
+}
+
+.play-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    padding: 10px 20px;
+    cursor: pointer;
+    display: none; /* itago ang button sa simula */
+}
