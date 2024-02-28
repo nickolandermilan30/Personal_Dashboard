@@ -30,10 +30,11 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
+  min-height: 100vh
   background-image: url("../image/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  /* background: #212140; */
 }
 
 /* MAIN MENU */
@@ -159,7 +160,7 @@ main {
 
 .content {
   display: grid;
-  grid-template-columns: 100% 25%;
+  grid-template-columns: 75% 25%;
 }
 
 /* LEFT CONTENT */
@@ -505,7 +506,7 @@ main {
 }
 
 .user-info h4 {
-  margin-left:45px;
+  margin-left: 60px;
 }
 
 .user-info img {
