@@ -285,7 +285,7 @@ main {
 
 .day-and-activity {
   display: grid;
-  grid-template-columns: 25% 60% 25%;
+  grid-template-columns: 15% 60% 25%;
   align-items: center;
   border-radius: 14px;
   margin-bottom: 5px;
